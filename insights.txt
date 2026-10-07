@@ -1,0 +1,8 @@
+REGIONAL GROWTH ANALYSIS - 5 KEY INSIGHTS
+================================================================================
+
+1. West is the highest-performing region with total sales of $739,813.61
+2. West has the highest average annual growth rate at 21.30%
+3. No significant small-base effect detected - all regions started with substantial initial sales
+4. South shows the most volatile growth pattern (std dev: 36.10%), indicating inconsistent performance
+5. Central shows positive recent growth trend (21.97% average over last 2 years)

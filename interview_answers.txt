@@ -1,0 +1,18 @@
+Why can growth rate mislead?
+================================================================================
+Growth rates can be misleading due to:
+• Small-base effect: A small absolute increase can show a huge percentage when starting from a low base
+• Volatility: Short-term fluctuations may not represent long-term trends
+• Seasonality: Growth may be seasonal rather than indicative of true performance
+• One-time events: Special promotions or unusual events can skew growth rates temporarily
+• Inflation: Nominal growth may not reflect real growth after adjusting for inflation
+
+What is a small-base effect?
+================================================================================
+Small-base effect occurs when:
+• A region/product starts with a very low initial value (small base)
+• Even a small absolute increase appears as a large percentage growth
+• Example: Growing from $100 to $200 = 100% growth, but $10,000 to $11,000 = only 10% growth
+• This creates an illusion of superior performance
+• Solution: Always look at absolute values alongside growth rates
+
